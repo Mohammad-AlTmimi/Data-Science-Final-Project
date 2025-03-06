@@ -1,17 +1,39 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity Data Science Nanodegree Project
 
-### Date created
-Include the date you created this project and README file.
+> **Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** GitHub account. Clone the remote repository to your local machine. Later, as part of the project "Post your Work on GitHub", you will push your proposed changes to the remote repository in your GitHub account.
 
-### Project Title
-Replace the Project Title
+## Date Created
+**June 2024**
 
-### Description
-Describe what your project is about and what it does
+## Project Title
+**Bike Share Data Analysis**
 
-### Files used
-Include the files used
+## Description
+This project is part of the Udacity Data Science Nanodegree program, where students apply Python programming skills and data analysis techniques to real-world datasets. The goal is to analyze US bike-share data from three major cities and uncover trends in how people use bike-sharing services. The analysis includes:
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- Identifying popular travel times.
+- Determining the most used stations and trip durations.
+- Understanding user demographics based on available data.
+- Presenting insights using Python and pandas.
 
+This project helps build foundational skills in data wrangling, exploratory data analysis, and working with real-world datasets.
+
+## Technologies Used
+- **Python**: The primary language for data analysis.
+- **pandas**: A powerful library for data manipulation.
+- **NumPy**: Used for numerical operations.
+- **Git & GitHub**: Version control and repository management.
+- **Jupyter Notebook**: (Optional) For interactive data exploration.
+
+## Files Used
+- `bikeshare.py` - Main script for data analysis.
+- `chicago.csv` - Bike-share data for Chicago.
+- `new_york_city.csv` - Bike-share data for New York City.
+- `washington.csv` - Bike-share data for Washington.
+- `.gitignore` - Specifies files to exclude from version control.
+- `README.md` - Project documentation.
+
+## How to Run the Project
+1. Clone the repository:
+   ```sh
+   git clone <repository-link>
