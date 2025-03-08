@@ -3,7 +3,7 @@
 > **Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** GitHub account. Clone the remote repository to your local machine. Later, as part of the project "Post your Work on GitHub", you will push your proposed changes to the remote repository in your GitHub account.
 
 ## Date Created
-**June 2024**
+**SEP 2024**
 
 ## Project Title
 **Bike Share Data Analysis**
