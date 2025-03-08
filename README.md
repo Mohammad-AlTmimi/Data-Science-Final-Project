@@ -23,7 +23,7 @@ This project helps build foundational skills in data wrangling, exploratory data
 - **pandas**: A powerful library for data manipulation.
 - **NumPy**: Used for numerical operations.
 - **Git & GitHub**: Version control and repository management.
-- **Jupyter Notebook**: (Optional) For interactive data exploration.
+- **Jupyter Notebook**: For interactive data exploration.
 
 ## Files Used
 - `bikeshare.py` - Main script for data analysis.
