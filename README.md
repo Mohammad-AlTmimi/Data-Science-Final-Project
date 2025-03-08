@@ -1,11 +1,11 @@
 # Udacity Data Science Nanodegree Project
 
 ## Date Created
-**June 2024**
+**SEP 2024**
 
 ## Project Title
 **Bike Share Data Analysis**
-
+ 
 ## Description
 This project is part of the Udacity Data Science Nanodegree program, where students apply Python programming skills and data analysis techniques to real-world datasets. The goal is to analyze US bike-share data from three major cities and uncover trends in how people use bike-sharing services. The analysis includes:
 
@@ -34,4 +34,4 @@ This project helps build foundational skills in data wrangling, exploratory data
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/Mohammad-AlTmimi/Data-Science-Final-Project.git>
+   git clone https://github.com/Mohammad-AlTmimi/Data-Science-Final-Project.git
