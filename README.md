@@ -7,7 +7,7 @@
 
 ## Project Title
 **Bike Share Data Analysis**
-
+ 
 ## Description
 This project is part of the Udacity Data Science Nanodegree program, where students apply Python programming skills and data analysis techniques to real-world datasets. The goal is to analyze US bike-share data from three major cities and uncover trends in how people use bike-sharing services. The analysis includes:
 
