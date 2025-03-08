@@ -36,4 +36,4 @@ This project helps build foundational skills in data wrangling, exploratory data
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone <repository-link>
+   git clone https://github.com/Mohammad-AlTmimi/Data-Science-Final-Project
