@@ -1,7 +1,5 @@
 # Udacity Data Science Nanodegree Project
 
-> **Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** GitHub account. Clone the remote repository to your local machine. Later, as part of the project "Post your Work on GitHub", you will push your proposed changes to the remote repository in your GitHub account.
-
 ## Date Created
 **June 2024**
 
@@ -36,4 +34,4 @@ This project helps build foundational skills in data wrangling, exploratory data
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone <repository-link>
+   git clone <https://github.com/Mohammad-AlTmimi/Data-Science-Final-Project.git>
